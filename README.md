@@ -56,10 +56,3 @@ Built with **Streamlit, LangChain, ChromaDB, Hugging Face Embeddings, and Groq�
 ---
 
 
-
-### **📜 License**  
-This project is licensed under the **MIT License**.  
-
----
-
-Would you like any modifications or additional sections? 🚀
